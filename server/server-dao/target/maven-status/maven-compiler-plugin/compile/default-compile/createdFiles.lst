@@ -1,0 +1,7 @@
+cn\dto\SysUser.class
+cn\dto\SysUserExample$Criteria.class
+cn\dto\SysUserExample.class
+cn\genaratexml\SysUserMapper.class
+cn\dto\SysUserExample$Criterion.class
+cn\dto\SysUserExample$GeneratedCriteria.class
+cn\dto\User2.class

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client" />
+        <module name="qiw" />
+        <module name="server-controller" />
+        <module name="server-dao" />
+        <module name="sso" />
+        <module name="wq" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="cardetail" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="server-controller" target="1.8" />
+      <module name="server-dao" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
